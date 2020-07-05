@@ -9,7 +9,7 @@
 --------------------------------How To Open IT ------------------------------------
 cd Dawnloads
 chmod +x *
-on Termux use It : python 'Main Script.py' or python3 'Main Script.py'  
+on Termux use It : python  'Main Script.py' or python3 'Main Script.py'  
 on Kali Linux    : python3 'Main Script.py'  
 -----------------------------------------------------------------------------------
 Password = GhOsT!#%&
